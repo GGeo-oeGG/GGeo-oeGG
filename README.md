@@ -11,7 +11,7 @@ Python-разработчик
 
 ## Что внутри
 
-1. [Простой онлайн магазин на чистом Django](https://github.com/GGeo-oeGG/example_online_resorce)
+1. [Простой онлайн ресурс на чистом Django](https://github.com/GGeo-oeGG/example_online_resorce)
 
 2. [Скрипт "анализ макроэкономических данных"](https://github.com/GGeo-oeGG/g_d_p_analysis)
 
