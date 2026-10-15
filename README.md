@@ -24,5 +24,7 @@ Python-разработчик
 6. [Фронтенд онлайн магазина на JS](https://github.com/GGeo-oeGG/gro-store-frontend)
     
     Работает в паре с апишкой из пункта 5
+   
+6. [Медицинский сервис (фронт, бэк, бд](https://github.com/GGeo-oeGG/Dia_Med)   
 
 Собрано с анимацией на SVG.
